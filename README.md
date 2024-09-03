@@ -1,2 +1,6 @@
 # professional-statement
 Professional statement that briefly describes who I am and what you care about.
+
+Version 1: As an experienced Product Manager transitioning into cybersecurity, I am eager to leverage my technical background, newly acquired cybersecurity certifications, and strengths in communication, analysis, and problem-solving in a GRC Analyst, Compliance Analyst, or Security Product Manager role. My passion for solving complex problems and protecting user data aligns with my commitment to enhancing organizational security posture and driving the development of secure, user-centric products. I am excited to contribute to high-impact security initiatives, ensuring robust, compliant, and secure systems that safeguard critical information.
+
+Version 2: Experienced Product Manager transitioning into cybersecurity, with a strong foundation in technical skills, cybersecurity certifications, and a passion for solving complex problems. Seeking roles in GRC, compliance, or security product management. Committed to enhancing organizational security by applying expertise in risk assessment, secure system design, and cross-functional collaboration. Dedicated to protecting user data and driving impactful, user-centric security solutions.
